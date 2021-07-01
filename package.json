@@ -1,0 +1,18 @@
+{
+  "name": "ihatejackforge",
+  "version": "1.1.0",
+  "description": "This is a meme",
+  "main": "index.js",
+  "bin": {
+    "test": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "meme"
+  ],
+  "author": "brian-trann",
+  "license": "ISC"
+}
